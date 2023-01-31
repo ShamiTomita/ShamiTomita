@@ -1,6 +1,5 @@
-### Hey Y'all!
-<h1> My name is Jose Miguel (go by Shami) </h1>
-<h1> I'm an aspiring developer proficient in Ruby, JavaScript, and counting! 👋 </h1>
+<h1> My name is Jose Miguel (you can call me Shami :blush: ) </h1>
+<h2> I'm an aspiring developer proficient in Ruby, JavaScript, and counting! 👋 </h2>
 
 <h3> About Me </h3>
 
