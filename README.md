@@ -1,5 +1,5 @@
 <h1> My name is Jose Miguel (you can call me Shami :blush: ) </h1>
-##I'm an aspiring developer proficient in Ruby, JavaScript, and counting! 👋
+<p>I'm an aspiring developer proficient in Ruby, JavaScript, and counting! 👋 </p>
 <h3> About Me </h3>
 
 - 🎓 &nbsp; Graduate of the Flatiron School's Software Engineering Bootcamp, NYU Alum :notes:
