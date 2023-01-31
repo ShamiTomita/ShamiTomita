@@ -19,6 +19,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamitomita&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/shamitomita/github-readme-stats)
 </div>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
