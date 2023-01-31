@@ -12,9 +12,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Ruby | JavaScript | React | Swift
-- 🌐 &nbsp; Full-Stack | Redux | HTML | CSS | JavaScript | Bootstrap | Tailwind 
+- 🌐 &nbsp; Full-Stack | Redux | HTML | CSS | Bootstrap | Tailwind 
 - 🛢 &nbsp; MySQL | Postgresql
-- 🔧 &nbsp; Visual Studio code  | Git | Xcode | R.I.P Atom :atom_symbol:	
+- 🔧 &nbsp; Visual Studio Code  | Git | Xcode | R.I.P Atom :atom_symbol:	
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shamitomita&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shami's Github Stats">
 
