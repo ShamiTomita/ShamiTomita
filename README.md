@@ -5,7 +5,7 @@
 - 🎓 &nbsp; Graduate of the Flatiron School's Software Engineering Bootcamp, NYU Alum :notes:
 - 💼 &nbsp; Currently looking for my first Tech Position!
 - 🌱 &nbsp; Interests include Cooking, Patisserie, Green Tech, Exercise, and Video Games
-- :technologist: &nbsp; You'll find contributing to Open Source Projects, Developing my skills through personal projects, or writing blogposts!
+- :technologist: &nbsp; You'll find me contributing to Open Source Projects, Developing my skills through personal projects, or writing blogposts!
 
 <h3>🛠 Tech Stack</h3>
 
