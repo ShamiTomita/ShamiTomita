@@ -1,6 +1,9 @@
 <h1> My name is Jose Miguel (you can call me Shami :blush: ) </h1>
 <p>I'm an aspiring developer proficient in Ruby, JavaScript, and counting! 👋 </p>
+<h3>[Go To My Portfolio!]https://shami-portfolio-site.herokuapp.com/</h3>
 <h3> About Me </h3>
+
+
 
 - 🎓 &nbsp; Graduate of the Flatiron School's Software Engineering Bootcamp, NYU Alum :notes:
 - 💼 &nbsp; Currently looking for my first Tech Position!
