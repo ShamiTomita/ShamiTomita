@@ -12,8 +12,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Ruby | JavaScript | React | Swift
-- 🌐 &nbsp; Full-Stack | Redux | HTML | CSS | Bootstrap | Tailwind 
+- 💻 &nbsp; Ruby on Rails | React | Redux | HTML | CSS | Bootstrap | TailwindCSS
 - 🛢 &nbsp; MySQL | Postgresql
 - 🔧 &nbsp; Visual Studio Code  | Git | Xcode | R.I.P Atom :atom_symbol:	
 
