@@ -1,19 +1,13 @@
 <h1> My name is Jose Miguel (you can call me Shami :blush: ) </h1>
-<p>I'm an aspiring developer proficient in Ruby, JavaScript, and counting! 👋 </p>
-<h3>Portfolio Website: https://shami-portfolio-site.herokuapp.com/</h3>
+<p> Full Stack Software Engineer 👋 </p>
 <h3> About Me </h3>
-
-
-
-- 🎓 &nbsp; Graduate of the Flatiron School's Software Engineering Bootcamp, NYU Alum :notes:
-- 💼 &nbsp; Currently looking for my first Tech Position!
-- 🌱 &nbsp; Interests include Cooking, Patisserie, Green Tech, Exercise, and Video Games
-- :technologist: &nbsp; You'll find me contributing to Open Source Projects, Developing my skills through personal projects, or writing blogposts!
+<p> Pastry chef turned software engineer throug bootcamp -> open source contributing -> Google Apprenticeship </p>
+<p> I've been 100% focused on my apprenticeship since 2023, but I'm coming home to this account </p>
 
 <h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Ruby on Rails | React | Redux | HTML | CSS | Bootstrap | TailwindCSS
-- 🛢 &nbsp; MySQL | Postgresql
+- 🧑‍💻 &nbsp; TypeScript/JavaScript | Ruby | C++ | Java | Go
+- 💻 &nbsp; Angular | Ruby on Rails | Node.js | React | Redux | HTML | CSS | Bootstrap | TailwindCSS
+- 🛢 &nbsp; MySQL | Postgresql | Spanner
 - 🔧 &nbsp; Visual Studio Code  | Git | Xcode | R.I.P Atom :atom_symbol:	
 
 <h3> 🤝🏻 Connect with Me </h3>
