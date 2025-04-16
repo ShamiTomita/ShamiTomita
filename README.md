@@ -5,10 +5,12 @@
 <p> I've been 100% focused on my apprenticeship since 2023, but I'm coming home to this account </p>
 
 <h3>🛠 Tech Stack</h3>
-- 🧑‍💻 &nbsp; TypeScript/JavaScript | Ruby | C++ | Java | Go
-- 💻 &nbsp; Angular | Ruby on Rails | Node.js | React | Redux | HTML | CSS | Bootstrap | TailwindCSS
-- 🛢 &nbsp; MySQL | Postgresql | Spanner
-- 🔧 &nbsp; Visual Studio Code  | Git | Xcode | R.I.P Atom :atom_symbol:	
+<ol>
+<li> 🧑‍💻 TypeScript/JavaScript | Ruby | C++ | Java | Go </li>
+<li> 💻  Angular | Ruby on Rails | Node.js | React | Redux | HTML | CSS | Bootstrap | TailwindCSS </li>
+<li> 🛢 &nbsp; MySQL | Postgresql | Spanner </li>
+<li> 🔧 &nbsp; Visual Studio Code  | Git | Xcode | R.I.P Atom :atom_symbol:	</li>
+</ol>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
