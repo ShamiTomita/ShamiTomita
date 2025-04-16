@@ -6,10 +6,10 @@
 
 <h3>🛠 Tech Stack</h3>
 <ul>
-<li> 🧑‍💻 TypeScript/JavaScript | Ruby | C++ | Java | Go </li>
+<li> 🧑‍💻  TypeScript/JavaScript | Ruby | C++ | Java | Go </li>
 <li> 💻  Angular | Ruby on Rails | Node.js | React | Redux | HTML | CSS | Bootstrap | TailwindCSS </li>
-<li> 🛢 &nbsp; MySQL | Postgresql | Spanner </li>
-<li> 🔧 &nbsp; Visual Studio Code  | Git | Xcode | R.I.P Atom :atom_symbol:	</li>
+<li> 🛢  MySQL | Postgresql | Spanner </li>
+<li> 🔧  Visual Studio Code  | Git | Xcode | R.I.P Atom :atom_symbol:	</li>
 </ul>
 
 <h3> 🤝🏻 Connect with Me </h3>
