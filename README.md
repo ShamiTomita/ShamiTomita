@@ -2,7 +2,7 @@
 <p> Full Stack Software Engineer 👋 </p>
 <h3> About Me </h3>
 <p> Pastry chef turned software engineer throug bootcamp -> open source contributing -> Google Apprenticeship </p>
-<p> I've been 100% focused on my apprenticeship since 2023, but I'm coming home to this account </p>
+<p> I've been 100% focused on my apprenticeship since 2023, but I'm excited to come home to this account! Be on the lookout for some fun projects on here :) </p>
 
 <h3>🛠 Tech Stack</h3>
 <ul>
